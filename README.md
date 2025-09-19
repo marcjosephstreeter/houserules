@@ -16,15 +16,18 @@ The basics enable many things. Read below.
 
 ### Earning
 These actions can earn you extra weekend time
-    
-    - Get dad up such that he is working out by 4:30am (+30 Mins ea/day, or +1 hour ea/day if done for Mon-Sat)
+
+    - Get dad up such that he is working out by 4:30 (+30 Mins ea/day, or +1 hour ea/day if done for Mon-Sat)
+    - Exercising on the treadmill for at least 1 hour to earn (+30 Mins)
+    - Mowing the entire lawn (complete with trimming) (+1 hour)
+    - 30 minutes of programming/typing/working(+30 Mins)
     - *more to come if you have ideas*
 
 ### Losing
 These actions can waste your extra weekend time
-    
-    - Watch TV or Play Games  or be on phone when `Basics` not complete (-30 Mins)
-    - Dad get’s you up after 8AM (-30 Mins)
+
+    - Watch TV or Play Games or be on phone when `Basics` not complete (-30 Mins)
+    - Dad get’s you up after 7AM (-30 Mins)
     - Losing 180 Min in a week - equates to all weekend time lost regardless of time earned
     - Group offenders lose all weekend time
 
